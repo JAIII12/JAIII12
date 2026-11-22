@@ -5,19 +5,22 @@
 
 <div align="center">
   <p align="center">
-    <strong>B.Tech Computer Science and Engineering (Big Data Analytics)</strong><br />
-    <em>SRM Institute of Science and Technology, Chennai</em>
+    <strong>B.Tech in Computer Science and Engineering (Big Data Analytics)</strong><br />
+    <em>SRM Institute of Science and Technology, Chennai</em> &nbsp;|&nbsp; <strong>CGPA: 8.35 / 10</strong>
   </p>
 
   <p align="center">
-    <a href="https://linkedin.com/in/jaibrat-yadav" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://portfoliozz-five.vercel.app" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Portfolio-portfoliozz--five.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white" alt="Personal Portfolio" />
     </a>
-    <a href="mailto:sy9534411@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <a href="https://www.linkedin.com/in/jaibrat-yadav-26a82b2aa" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/LinkedIn-Jaibrat%20Yadav-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
     </a>
-    <a href="https://github.com/JAIII12">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <a href="mailto:jby1197@gmail.com">
+      <img src="https://img.shields.io/badge/Email-jby1197%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Me" />
+    </a>
+    <a href="https://github.com/JAIII12" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/GitHub-JAIII12-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
     </a>
   </p>
 </div>
@@ -26,8 +29,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** Pursuing B.Tech in Computer Science and Engineering with a specialization in **Big Data Analytics** at **SRM Institute of Science and Technology**, Chennai.
-- 💡 **Core Interests:** Software Engineering, Full-Stack Development, Applied Artificial Intelligence, Machine Learning, and Big Data Analytics.
+- 🎓 **Education:** Pursuing B.Tech in Computer Science and Engineering with a specialization in **Big Data Analytics** at **SRM Institute of Science and Technology**, Chennai (**CGPA: 8.35 / 10**).
+- 🌐 **Live Portfolio:** Explore my featured projects and background at [portfoliozz-five.vercel.app](https://portfoliozz-five.vercel.app).
+- 💡 **Core Interests:** Software Engineering, Full-Stack Web Development, Applied Artificial Intelligence, Machine Learning, and Big Data Analytics.
 - 🛠️ **Engineering Philosophy:** Passionate about architecting practical, end-to-end applications that bridge intuitive user experiences with high-performance backend pipelines and intelligent ML models.
 - 🔍 **Current Focus:** Deepening expertise in distributed data processing, modern cloud architectures, and multimodal AI agent workflows.
 
@@ -96,15 +100,19 @@
 ### 📬 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/jaibrat-yadav" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://portfoliozz-five.vercel.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Live_Portfolio-portfoliozz--five.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal Portfolio" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:sy9534411@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://www.linkedin.com/in/jaibrat-yadav-26a82b2aa" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Jaibrat_Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/JAIII12">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="mailto:jby1197@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jby1197%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/JAIII12" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-JAIII12-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
 </div>
