@@ -60,6 +60,15 @@ I am a Computer Science & Engineering undergraduate specializing in **Big Data A
 
 ### 🚀 Featured Projects
 
+#### 🏛️ [Smart Room Allocator (SmartAlloc)](https://github.com/JAIII12/smart-room-allocator)
+> **Institutional Room Allocation & Timetable Optimization Engine**
+- **Description:** A full-stack institutional resource planning SaaS platform automating classroom and lab allocations, eliminating scheduling clashes, and tracking campus facility efficiency.
+- **Key Capabilities:** Algorithmic auto-allocation engine matching course requirements to room capacities, real-time double-booking clash detection with one-click resolution, interactive weekly timetable grid, role-based access control (Admin, Faculty, Student), and Recharts utilization analytics.
+- **Technologies:** `React 19` • `Node.js` • `Express 5` • `MongoDB` • `Tailwind CSS` • `Recharts` • `JWT`
+- **Repository:** [github.com/JAIII12/smart-room-allocator](https://github.com/JAIII12/smart-room-allocator)
+
+<br />
+
 #### 🩺 [Med Assist AI](https://github.com/JAIII12/med_ui)
 > **AI-Powered Healthcare Guidance & Medical Assistant Platform**
 - **Description:** An intelligent healthcare assistant providing automated symptom assessment, medication safety analysis, drug interaction checks, mental health support, and health vitals tracking.
